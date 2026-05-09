@@ -1,3 +1,9 @@
+# DevOps Capstone Project
+
+![CI Build](https://github.com/fikrialif1/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+A simple Accounts REST API microservice built with Flask.
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
